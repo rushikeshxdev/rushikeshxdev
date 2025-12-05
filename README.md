@@ -12,11 +12,11 @@
 <div align="center">
   <h3>📊 My GitHub Stats</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rushikeshxdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Rushikesh's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshxdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rushikeshxdev&show_icons=true&theme=dark" alt="Rushikesh's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshxdev&layout=compact&theme=dark" alt="Top Languages" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshxdev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshxdev&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
   </p>
 </div>
 
