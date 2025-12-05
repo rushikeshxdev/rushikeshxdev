@@ -11,13 +11,15 @@
 
 <div align="center">
   <h3>📊 My GitHub Stats</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rushikeshxdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Rushikesh's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshxdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshxdev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="Streak" />
-  </p>
+  <!-- Stats using different Vercel instance -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rushikeshxdev&show_icons=true&theme=tokyonight" />
+
+<!-- Or use GitHub's own metrics -->
+<img src="https://metrics.lecoq.io/rushikeshxdev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata" />
+  
+  <!-- Streak Stats -->
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshxdev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="Streak" />
 </div>
 
 <div align="center">
